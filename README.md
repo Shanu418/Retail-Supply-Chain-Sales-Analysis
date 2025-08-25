@@ -112,12 +112,6 @@ Connected SQL Server to Power BI for dynamic dashboards.
 
 
 ---
-## Acknowledgement
-
-This project is part of my internship at quantum learnings: [Certificate](https://drive.google.com/file/d/1U-9LPkUYoe5w_ulkhWfbYy88J4GF1hVI/view?usp=drive_link)
-
-
----
 
 
 ## Power Bi dashboards
